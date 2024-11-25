@@ -29,18 +29,7 @@
 - 🌎 **Curiosidad**: Siempre aprendiendo nuevas tecnologías.
 
 ---
+![Ry6p](https://github.com/user-attachments/assets/14a61c84-7a6f-400a-87d7-6453d5f2dfe7)
 
-## 😎 Así es mi día a día
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Programando GIF" />
-</p>
-
-## 🎉 Más GIF porque... ¡¿por qué no?! 😜
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Trabajo en equipo" width="auto" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Café y programación" width="auto" />
-</p>
-
----
 
 ✨ Gracias por visitar mi perfil. ¡Espero que disfrutes de mis proyectos! ✨
