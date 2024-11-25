@@ -11,11 +11,11 @@
 
 ## 📊 Mis estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisTobar&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Luis Tobar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisTobar765&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Luis Tobar" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTobar&theme=radical" alt="Streak stats de Luis Tobar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTobar765&theme=radical" alt="Streak stats de Luis Tobar" />
 </p>
 
 ## 🎯 Mis metas
