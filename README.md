@@ -13,10 +13,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisTobar765&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Luis Tobar" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisTobar765&theme=radical" alt="Streak stats de Luis Tobar" />
 </p>
+---
+## 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTobar765&layout=compact)
+---
 
 ## 🎯 Mis metas
 - 💻 Mejorar en **desarrollo backend**.
