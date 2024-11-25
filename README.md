@@ -29,7 +29,12 @@
 - 🌎 **Curiosidad**: Siempre aprendiendo nuevas tecnologías.
 
 ---
+
 ![Ry6p](https://github.com/user-attachments/assets/14a61c84-7a6f-400a-87d7-6453d5f2dfe7)
 
+---
+![EHil](https://github.com/user-attachments/assets/6bc89dd3-e7cf-4d87-b489-9ea49288f254)
+
+---
 
 ✨ Gracias por visitar mi perfil. ¡Espero que disfrutes de mis proyectos! ✨
