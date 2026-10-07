@@ -8,6 +8,7 @@
 
 ## 🔧 Tecnologías que uso
 ![Tecnologías](https://skillicons.dev/icons?i=java,androidstudio,arduino,git,html,css,js,python)
+
 ![Metrics](https://github.com/LuisTobar765/LuisTobar765/blob/main/github-metrics.svg)
 
 
