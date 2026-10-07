@@ -8,6 +8,8 @@
 
 ## 🔧 Tecnologías que uso
 ![Tecnologías](https://skillicons.dev/icons?i=java,androidstudio,arduino,git,html,css,js,python)
+![Metrics](https://github.com/LuisTobar765/LuisTobar765/blob/main/github-metrics.svg)
+
 
 ## 📊 Mis estadísticas de GitHub
 <p align="center">
@@ -19,8 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTobar765&layout=compact&theme=radical)
 
-
-> El gráfico se genera automáticamente con [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
 ## 🎯 Mis metas
 - 💻 Mejorar en **desarrollo backend**.
