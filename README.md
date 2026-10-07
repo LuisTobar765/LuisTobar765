@@ -16,7 +16,9 @@
 </p>
 
 ## 📊 Lenguajes más usados
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisTobar765&layout=compact&theme=radical)
+
 
 > El gráfico se genera automáticamente con [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
